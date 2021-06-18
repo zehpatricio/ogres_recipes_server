@@ -130,3 +130,6 @@ dmypy.json
 ogres-recipes-app/ogres_recipes_app/recipes_database-wal
 ogres-recipes-app/ogres_recipes_app/recipes_database-shm
 ogres-recipes-app/ogres_recipes_app/recipes_database
+recipes
+recipes-shm
+recipes-wal
